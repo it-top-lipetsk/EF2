@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF2.DB_Lib", "EF2.DB_Lib\EF2.DB_Lib.csproj", "{85AA0E77-2CE9-41E7-AB5A-39880D4A8E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF2.Model", "EF2.Model\EF2.Model.csproj", "{037BF29F-8CBF-4F49-AE28-D3D8209001A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF2.TestApp", "EF2.TestApp\EF2.TestApp.csproj", "{FD5A00C0-86F3-4A77-B462-F139C3BE9B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85AA0E77-2CE9-41E7-AB5A-39880D4A8E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AA0E77-2CE9-41E7-AB5A-39880D4A8E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AA0E77-2CE9-41E7-AB5A-39880D4A8E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AA0E77-2CE9-41E7-AB5A-39880D4A8E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037BF29F-8CBF-4F49-AE28-D3D8209001A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037BF29F-8CBF-4F49-AE28-D3D8209001A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037BF29F-8CBF-4F49-AE28-D3D8209001A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037BF29F-8CBF-4F49-AE28-D3D8209001A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5A00C0-86F3-4A77-B462-F139C3BE9B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5A00C0-86F3-4A77-B462-F139C3BE9B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5A00C0-86F3-4A77-B462-F139C3BE9B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5A00C0-86F3-4A77-B462-F139C3BE9B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
